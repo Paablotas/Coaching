@@ -16,7 +16,7 @@
       'database' => 'pablo',
       'username' => 'adminBLnjhrh',
       'password' => 'Wv5WJ5PaBkEa',
-      'unix_socket' => '/var/lib/openshift/560ebee70c1e665eb400001c/mysql//socket/mysql.sock'
+      'unix_socket' => '/var/lib/openshift/560ebee70c1e665eb400001c/mysql//socket/mysql.sock',
       'charset' => 'utf8',
       'collation' => 'utf8_unicode_ci',
       'prefix' => 'blog_',
