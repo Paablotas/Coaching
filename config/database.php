@@ -13,9 +13,9 @@
     array (
       'driver' => 'mysql',
       'host' => 'localhost',
-      'database' => 'licevps',
-      'username' => 'licevps',
-      'password' => 'Q3J1B28ZbwJ65o8H',
+      'database' => 'pablo',
+      'username' => 'adminBLnjhrh',
+      'password' => 'Wv5WJ5PaBkEa',
       'charset' => 'utf8',
       'collation' => 'utf8_unicode_ci',
       'prefix' => 'blog_',
